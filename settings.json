@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": bloodost.aternos.me
-    "port": 19615
+    "ip": "bloodost.aternos.me",
+    "port": 19615,
     "version": "1.21.1"
   },
   "position": {
